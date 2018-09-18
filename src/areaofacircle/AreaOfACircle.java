@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Peter Horne-Deus
+ * AreaOfACircle.java
+ * This program calculates the area of a circle with a radius of 15cm
+ * September 18, 2018
  */
 
 package areaofacircle;
